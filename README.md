@@ -43,5 +43,5 @@ The goal was to identify, analyze, and mitigate potential security risks on the 
 ---
 
 ## 🧠 Author  
-**Your Name**  
+**Gurram Baby Rani**  
 *Cybersecurity Enthusiast | Kali Linux User | OpenVAS Learner*  
